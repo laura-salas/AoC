@@ -1,4 +1,4 @@
-
+# problem link: https://adventofcode.com/2021/day/4
 def sol(bingo_unparsed):
     bingo_unparsed = bingo_unparsed.split("\n")
     bingo = []

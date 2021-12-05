@@ -1,3 +1,4 @@
+# problem link https://adventofcode.com/2021/day/2
 def sol(lines):
     lines = lines.split("\n")
     commands = []
