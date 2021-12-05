@@ -1,4 +1,5 @@
-<center>
+<p align="center">
+  
 # Advent of Code 
 
 ![a](https://media2.giphy.com/media/l378eEicgpGBNjcJi/giphy.gif)
@@ -21,7 +22,7 @@
 
 #### [Show your fashion sense](https://advent-of-code.creator-spring.com/?)
 
-</center>
+</p>
 
 
 
