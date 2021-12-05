@@ -1,3 +1,4 @@
+# problem link: https://adventofcode.com/2021/day/3
 def sol(bits_inparsed):
     bits_inparsed = bits_inparsed.split("\n")
     bits = []
