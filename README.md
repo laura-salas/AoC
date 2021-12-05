@@ -16,7 +16,7 @@
 
 ## Other useful links
 
-#### [Donate to AoC]([Click here to go to their website!](https://adventofcode.com))
+#### [Donate to AoC](https://adventofcode.com)
 
 #### [Show your fashion sense](https://advent-of-code.creator-spring.com/?)
 
